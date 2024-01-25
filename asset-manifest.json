@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Stock-Bazar/static/css/main.58273270.css",
+    "main.js": "/Stock-Bazar/static/js/main.a9895d69.js",
+    "static/js/787.bf6b7f2c.chunk.js": "/Stock-Bazar/static/js/787.bf6b7f2c.chunk.js",
+    "index.html": "/Stock-Bazar/index.html",
+    "main.58273270.css.map": "/Stock-Bazar/static/css/main.58273270.css.map",
+    "main.a9895d69.js.map": "/Stock-Bazar/static/js/main.a9895d69.js.map",
+    "787.bf6b7f2c.chunk.js.map": "/Stock-Bazar/static/js/787.bf6b7f2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58273270.css",
+    "static/js/main.a9895d69.js"
+  ]
+}
