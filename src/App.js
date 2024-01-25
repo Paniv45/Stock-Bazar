@@ -15,7 +15,7 @@ function App() {
         <Route path='/Nav' component={Nav}/>
         <Route path='/Footer' component={Footer}/>
         <Route path="/share1/:id" component={share1} />
-        <Route path="/" component={Main} exact />
+        <Route path="/Stock-Bazar" component={Main} exact />
         
       </Switch>
     </Router>
