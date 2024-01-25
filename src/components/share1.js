@@ -22,6 +22,15 @@ const Share1 = ({ location }) => {
       toolbar: {
         show: false,
       },
+      xaxis:{
+        offsetY:7
+      },
+      yaxis: {
+        tooltip: {
+          enabled: true
+          
+        }
+      }
     },
   };
 

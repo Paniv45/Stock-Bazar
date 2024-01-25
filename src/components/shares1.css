@@ -2,8 +2,9 @@
     width: 100%;
     height: 100vh;
     display: flex;
+    
   }
-  
+
   .left {
     flex: 30%;
     background-color: #f1f1f1;
@@ -14,6 +15,7 @@
   .right {
     padding-top: 50px;
     flex: 70%;
+    
     background-color: black;
   }
 
@@ -45,3 +47,4 @@
 .center{
   text-align: right;
 }
+
